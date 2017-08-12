@@ -1,1 +1,2 @@
 # Twitter_Bot
+This bot uses Tweepy API to list the followers and followings of a given user. It also favorites the tweets of given user and hashtag (hard coded as @boltiot and #IOT respectively in the code)
